@@ -1,0 +1,7 @@
+[package]
+name = "echod"
+version = "0.0.0"
+authors = ["Pekka Enberg"]
+
+[dependencies]
+spirit = { path = "../../lib" }
